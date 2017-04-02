@@ -1,2 +1,2 @@
 # test
-just started to learn git
+I'm learning this through a tutorial
